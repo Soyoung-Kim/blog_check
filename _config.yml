@@ -5,8 +5,8 @@ author: Hexo
 language: en
 timezone: UTC
 
-url: https://hexo.io
-root: /
+url: https://soyoung-kim.github.io
+root: /blog_check/
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
 code_dir: downloads/code
